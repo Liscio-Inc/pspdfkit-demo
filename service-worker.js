@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pspdfkit-demo/precache-manifest.748e37677dff751d27d9bef23413ab0f.js"
+  "/pspdfkit-demo/precache-manifest.e12daa0793ed91e47e3a70f1b3d58449.js"
 );
 
 self.addEventListener('message', (event) => {

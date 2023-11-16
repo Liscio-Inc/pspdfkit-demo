@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b75a2e9cf67936d9599f035f619a83f9",
+    "revision": "9d36f1db41a67964d01dc1f00bf078be",
     "url": "/pspdfkit-demo/index.html"
   },
   {
-    "revision": "9f2a6c39a2a280083de1",
+    "revision": "a65155637f893acf7842",
     "url": "/pspdfkit-demo/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pspdfkit-demo/static/js/4.8c8360b9.chunk.js"
   },
   {
-    "revision": "9f2a6c39a2a280083de1",
-    "url": "/pspdfkit-demo/static/js/main.bd583e42.chunk.js"
+    "revision": "a65155637f893acf7842",
+    "url": "/pspdfkit-demo/static/js/main.da67f66e.chunk.js"
   },
   {
     "revision": "ded8a77e3568d522f7cf",
