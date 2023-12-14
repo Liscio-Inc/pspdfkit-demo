@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/pspdfkit-demo/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/pspdfkit-demo/static/js/main.75da8315.chunk.js",
+    "main.js": "/pspdfkit-demo/static/js/main.30827a5f.chunk.js",
     "main.css.map": "/pspdfkit-demo/static/css/main.5ecd60fb.chunk.css.map",
-    "main.js.map": "/pspdfkit-demo/static/js/main.75da8315.chunk.js.map",
+    "main.js.map": "/pspdfkit-demo/static/js/main.30827a5f.chunk.js.map",
     "runtime~main.js": "/pspdfkit-demo/static/js/runtime~main.e76b0ef9.js",
     "runtime~main.js.map": "/pspdfkit-demo/static/js/runtime~main.e76b0ef9.js.map",
     "static/js/2.d50a2d56.chunk.js": "/pspdfkit-demo/static/js/2.d50a2d56.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/4.98ee7101.chunk.js": "/pspdfkit-demo/static/js/4.98ee7101.chunk.js",
     "static/js/4.98ee7101.chunk.js.map": "/pspdfkit-demo/static/js/4.98ee7101.chunk.js.map",
     "index.html": "/pspdfkit-demo/index.html",
-    "precache-manifest.39f74f446a7816aedd5b2eb5e8bd50b9.js": "/pspdfkit-demo/precache-manifest.39f74f446a7816aedd5b2eb5e8bd50b9.js",
+    "precache-manifest.08693cfe3a85db8c703a47b38f6bcf08.js": "/pspdfkit-demo/precache-manifest.08693cfe3a85db8c703a47b38f6bcf08.js",
     "service-worker.js": "/pspdfkit-demo/service-worker.js"
   }
 }
